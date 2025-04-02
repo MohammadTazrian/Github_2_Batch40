@@ -10,5 +10,7 @@ public class Myclass {
 		System.out.println("This is my first method");
 	}
 	
-	
+	public void getSecondMethod(){
+		System.out.println("This is my second method");
+	}
 }
